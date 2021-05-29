@@ -24,6 +24,6 @@ public class hourGlass {
 
             System.out.println();
         }
-
+        scn.close();
     }
 }

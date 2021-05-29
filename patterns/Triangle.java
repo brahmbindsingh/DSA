@@ -18,5 +18,6 @@ public class Triangle {
             System.out.println();
 
         }
+        scn.close();
     }
 }

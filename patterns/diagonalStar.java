@@ -15,5 +15,6 @@ public class diagonalStar {
             }
             System.out.println();
         }
+        scn.close();
     }
 }

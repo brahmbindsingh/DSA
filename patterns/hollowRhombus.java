@@ -41,6 +41,6 @@ public class hollowRhombus {
                 mspc -= 2;
             }
         }
-
+        scn.close();
     }
 }

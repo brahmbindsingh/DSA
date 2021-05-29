@@ -21,6 +21,6 @@ public class wPrint {
             }
             System.out.println();
         }
-
+        scn.close();
     }
 }

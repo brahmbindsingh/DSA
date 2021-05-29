@@ -44,6 +44,6 @@ public class mixRhombus {
             }
 
         }
-
+        scn.close();
     }
 }

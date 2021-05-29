@@ -28,6 +28,7 @@ public class nazi {
             }
 
             System.out.println();
+            scn.close();
         }
 
     }

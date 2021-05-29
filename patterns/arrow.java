@@ -37,8 +37,8 @@ public class arrow {
             } else {
                 rstc--;
             }
-
         }
-
+        
+        scn.close();
     }
 }

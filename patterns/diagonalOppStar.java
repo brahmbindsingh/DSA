@@ -15,5 +15,6 @@ public class diagonalOppStar {
             }
             System.out.println();
         }
+        scn.close();
     }
 }

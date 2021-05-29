@@ -15,5 +15,6 @@ public class diagonalPoppStar {
             }
             System.out.println();
         }
+        scn.close();
     }
 }

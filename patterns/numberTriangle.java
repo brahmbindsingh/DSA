@@ -35,6 +35,6 @@ public class numberTriangle {
             System.out.println();
             spc -= 2;
         }
-
+        scn.close();
     }
 }

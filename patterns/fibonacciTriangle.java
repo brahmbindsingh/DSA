@@ -22,6 +22,6 @@ public class fibonacciTriangle {
             
             System.out.println();
         }
-
+        scn.close();
     }
 }

@@ -19,6 +19,6 @@ public class countTriangle {
             
             System.out.println();
         }
-
+        scn.close();
     }
 }
